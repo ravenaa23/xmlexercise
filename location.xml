@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "location.xsl"?>
+<location>
+<username>ravenaa</username>
+<useremail>raveena@student.tce.edu</useremail>
+<phone>989839834</phone>
+<pickloc>kk Nagar</pickloc>
+<droploc>SS colony</droploc>
+<date>20-11-2020</date>
+<username>raakesh</username>
+<useremail>raakesh@student.tce.edu</useremail>
+<phone>6578989899</phone>
+<pickloc>TVS Nagar</pickloc>
+<droploc>Othakadai</droploc>
+<date>15-11-2020</date>
+<username>Vasanthy</username>
+<useremail>vasanthy@gmail.com</useremail>
+<phone>6379393137</phone>
+<pickloc>APR Nagar</pickloc>
+<droploc>Krishnan Nagar</droploc>
+<date>16-11-2020</date>
+</location>

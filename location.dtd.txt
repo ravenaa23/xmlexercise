@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes" ?>
+<!DOCTYPE location [
+   <!ELEMENT location (username,useremail,phone,pickloc,droploc,date)>
+   <!ELEMENT username (#PCDATA)>
+   <!ELEMENT useremail (#PCDATA)>
+   <!ELEMENT phone (#PCDATA)>
+   <!ELEMENT pickloc (#PCDATA)>
+   <!ELEMENT droploc (#PCDATA)>
+   <!ELEMENT date (#PCDATA)>
+]>
+
+
+
